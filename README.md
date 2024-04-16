@@ -19,3 +19,10 @@ git clone https://github.com/ryangpaiva/RL-Planar-Bipedal.git
 cd gym-examples
 pip install -e .
 ```
+
+## Example Usage
+```python
+import gym
+import gym-examples
+env = gym.make('gym_examples/bipedal-v0')
+```
