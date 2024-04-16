@@ -15,7 +15,7 @@ Requisites Gym, Mujoco[version]
 ## Installation
 Install this as any other OpenAI gym environment:
 ```
-    git clone https://github.com/ryangpaiva/RL-Planar-Bipedal.git
-    cd gym-examples
-    pip install -e .
+git clone https://github.com/ryangpaiva/RL-Planar-Bipedal.git
+cd gym-examples
+pip install -e .
 ```
