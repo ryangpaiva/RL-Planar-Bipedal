@@ -11,3 +11,9 @@ Requisites Gym, Mujoco[version]
 ```python3 test.py```
 ```python3 learn.py```
 ```tensorboard --logdir gym_examples/```
+
+## Installation
+Install this as any other OpenAI gym environment:
+    git clone https://github.com/ryangpaiva/RL-Planar-Bipedal.git
+    cd gym-examples
+    pip install -e .
